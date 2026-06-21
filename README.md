@@ -39,7 +39,5 @@ http://www.apache.org/licenses/LICENSE-2.0
 ## Third-Party Software & Licenses
 
 Third-party software installed via ypm recipes retain their original respective licenses as dictated by their upstream developers.
-
-    Recipe Metadata: Every package recipe includes comment blocks or metadata fields pointing to the official upstream repository and its licensing model.
-
-    Package Inclusions: Pre-compiled binaries or packages distributed via ypm stores retain their original license text within their target installation directory (typically under /ypm/pkgs/<package>/<version>/usr/share/licenses/ or the package's root rootfs structure) to respect the authors' intellectual property and maintain compliance with FOSS ethics.
+Recipe Metadata: Every package recipe includes comment blocks or metadata fields pointing to the official upstream repository and its licensing model.
+Package Inclusions: Pre-compiled binaries or packages distributed via ypm stores retain their original license text within their target installation directory (typically under /ypm/pkgs/<package>/<version>/usr/share/licenses/ or the package's root rootfs structure) to respect the authors' intellectual property and maintain compliance with FOSS ethics.
